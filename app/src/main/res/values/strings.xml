@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic_Tip_Calculator</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="enter_tip_percentage">Enter Tip Percentage</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_bill_including_tip">Total Bill (including tip):</string>
+    <string name="return_to_main_activity">Return to Main Activity</string>
+</resources>
